@@ -2,16 +2,6 @@
 
 리덕스 시작하기 튜토리얼 전용 템플릿
 
-이 프로젝트는 총 6가지의 Branch 로 나뉘어져있습니다:
-
-- [template](https://github.com/vega2k/begin-redux-template): 실습을 빠르게 진행하기 위한 템플릿
-- [01]: Counter (기본)
-- [02]: Todo 리스트 (기본)
-- [03]: Todo 리스트 (Immutable Record 사용)
-- [04]: ActionCreator 미리 bind하기
-- [05]: immer.js 사용해보기
-- [06]: MobX 로 구현해보기
-- [07]: MobX 로 구현해보기 (Store 분리)
 
 ## 템플릿에 이미 이뤄진 작업:
 
