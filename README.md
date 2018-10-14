@@ -5,8 +5,8 @@
 이 프로젝트는 총 6가지의 Branch 로 나뉘어져있습니다:
 
 - [template](https://github.com/vega2k/begin-redux-template): 실습을 빠르게 진행하기 위한 템플릿
-- [01]: Counter (기본)
-- [02]: Counter (코드 정리)
+- [01]: () Counter (기본)
+- [02]: () Counter (코드 정리)
 - [03]: Todo 리스트 (기본)
 - [04]: Todo 리스트 (Immutable Record 사용)
 - [05]: ActionCreator 미리 bind하기
